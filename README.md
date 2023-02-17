@@ -33,7 +33,7 @@ code : server-python (server-script)
 
 `pkg install python -y`
 
-`git clone https://github.com/server-python/code-filter.git`
+`git clone https://github.com/mocarlow/filtering-rubix.git`
 
 `cd code-filter/code-filter`
 
