@@ -145,8 +145,8 @@ while c==1:
     if wer==1234:
         print("""
         
-        email me: server.code35@gmail.com:)
-        web me: server-script1.gigfa.com:)
+        email me: khajeh137@outlook.com:)
+        web me: mocarlow.github.io:)
 
 
         """)
