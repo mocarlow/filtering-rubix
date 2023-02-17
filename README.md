@@ -27,7 +27,7 @@
 
 ***code filter rubika***
 
-code : server-python (server-script)
+### INSTALLATION [Termux] :
 
 `pkg install git -y`
 
@@ -35,8 +35,8 @@ code : server-python (server-script)
 
 `git clone https://github.com/mocarlow/filtering-rubix.git`
 
-`cd code-filter/code-filter`
+`cd filtering-rubix`
 
 `chmod  777 *`
 
-`python start.py.py`
+`python start.py`
